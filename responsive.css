@@ -1,0 +1,37 @@
+@media screen and (max-width:690px){
+input,button,textarea{
+  width:100%;
+}
+.picture-wrapper img{
+  width:100%;
+  height:auto;
+  position:relative;
+  right:20px;
+}
+.picture-wrapper{
+  font-size:15px;
+}
+footer{
+  width:100%;
+}
+.copyright{
+  font-size: 20px;
+}
+.instruction h2{
+  font-size: 25px;
+}
+.picture-heading h2{
+  font-size:35px;
+}
+input,textarea,button{
+  position:relative;
+  right:15px;
+}
+.result-contents h2{
+  font-size: 30px;
+  text-align: center;
+}
+.form-heading h2{
+  font-size: 30px;
+  text-align: center;
+}
