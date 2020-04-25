@@ -35,3 +35,15 @@ input,textarea,button{
   font-size: 30px;
   text-align: center;
 }
+header h2{
+  font-size:20px;
+  width:30%;
+  line-height:30px;
+}
+.login{
+   display:none;
+}
+header{
+  height:150px;
+  padding:0 20px
+}
