@@ -181,7 +181,7 @@ footer{
 .faq-wrapper {
   background-color: #e6ecf0;
   text-align: center;
-  padding: 10px 0 80px 0;
+  padding: 10px 15px 40px 15px;
   color: #5f5d60;
   border-radius: 10px;
 }
@@ -200,20 +200,16 @@ footer{
   text-align: left;
 }
 
-.faq-list-item h3 {
-  font-size: px;
-}
-
 .faq-list-item span {
   position:absolute;
   top:0;
   right:5px;
   color:#ccc;
-  font-size:13px;
+  font-size:25px;
 }
 
 .answer {
-  font-size: 12px;
+  font-size: 20px;
   padding: 5px 0px;
   margin-bottom: 15px;
   display:none;
