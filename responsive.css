@@ -47,3 +47,9 @@ header{
   height:150px;
   padding:0 20px
 }
+.answer {
+  font-size: 15px;
+  padding: 5px 0px;
+  margin-bottom: 15px;
+  display:none;
+}
